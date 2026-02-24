@@ -33,7 +33,7 @@ Digitar o nome do executável (Hans_compliance.exe), um espaço e logo em seguid
 
 ![x](/pictures/hans_comp_pic2.jpg)  
 
-Depois clicar ENTER e rodar a aplicação;  
+Depois, pressionar a tecla ENTER e rodar a aplicação;  
 
 ![x](/pictures/hans_comp_pic3.jpg)  
 
