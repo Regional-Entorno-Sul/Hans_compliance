@@ -42,5 +42,5 @@ Se o programa identificar alguma inconsistência, um arquivo com os registros co
 ## Outros detalhes técnicos  
 
 Com relação às opcões disponíveis para a geração dos arquivos, usando o parâmetro opção, temos as seguintes possibilidades:  
---name: nas notificações de Hanseníase, o nome dos pacientes não podem ser abreviados. O algoritmo dessa opção identifica possíveis abreviações no nome dos pacientes, no entanto, o algoritmo não é 100% preciso, dessa forma, cabe ao usuário verificar no arquivo que foi gerado, se os nomes dos pacientes estão mesmo abreviados.  
---menor15: gera uma planilha com os pacientes menores de 15 anos, 
+**--name**: nas notificações de Hanseníase, o nome dos pacientes não podem ser abreviados. O algoritmo dessa opção identifica possíveis abreviações no nome dos pacientes, no entanto, o algoritmo não é 100% preciso, dessa forma, cabe ao usuário verificar no arquivo que foi gerado, se os nomes dos pacientes estão mesmo abreviados.  
+**--menor15**: gera uma planilha com os pacientes menores de 15 anos, 
