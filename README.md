@@ -43,7 +43,7 @@ Se o programa identificar alguma inconsistência, um arquivo com os registros co
 
 Com relação às opcões disponíveis para a geração dos arquivos, usando o parâmetro opção, temos as seguintes possibilidades:  
 **--name**: nas notificações de Hanseníase, o nome dos pacientes não podem ser abreviados. O algoritmo dessa opção identifica possíveis abreviações no nome dos pacientes, no entanto, o algoritmo não é 100% preciso, dessa forma, cabe ao usuário verificar no arquivo que foi gerado, se os nomes dos pacientes estão mesmo abreviados.  
-**--menor15**: gera uma planilha com os pacientes menores de 15 anos, a investigação de Hanseníase em menores de 15 anos é obrigatória e exige o preenchimento do Protocolo Complementar de Investigação Diagnóstica de Casos de Hanseníase em Menores de 15 anos (PCID < 15).
+**--menor15**: gera uma planilha com os pacientes menores de 15 anos, a investigação de Hanseníase em menores de 15 anos é obrigatória e exige o preenchimento do Protocolo Complementar de Investigação Diagnóstica de Casos de Hanseníase em Menores de 15 anos (PCID < 15).  
 **--lesoes**: identifica registros na base de dados com inconsistência entre o número de lesões e a classificação operacional. Dessa forma, são marcados como inconsistentes os registros que:  
 O número de lesões for maior que cinco e a classificação operacional for PB;  
 O numero de lesões for menor ou igual a cinco e a classificação operacional for MB;  
